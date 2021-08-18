@@ -19,17 +19,22 @@ Based on the analysis results, there was 1,517 observations for December between
 
 ### Main Takeaways of Temperature Analysis
 1- The average temperature in June is 74F while in December is 71F
+
 2- The minimum temperature in June is 64F while in December is 56F
+
 3- The maximum temperature in June is 85F while in December is 83F
 
 ## Summary:
 After comparing the statistic summary of June and December we can conclude that temperatures are steady throughout the year, with small variation between Summer and Winter. With that said, Oahu would be a good place for a surf and ice cream shop.
 
 To get a deeper understanding of the weather on Oahu we looked at a statistic summary of the precipitation for June and December, the results are below. 
+
 ![June Precipitation Statistics](https://github.com/carolineshipley/surfs_up/blob/main/Resources/JunePrec.PNG)
 ![December Precipitation Statistics](https://github.com/carolineshipley/surfs_up/blob/main/Resources/DecPrec.PNG)
 
 ### Main Takeaways of Precipitation Analysis
 1- The average precipitation in June is 0.13 while in December is 0.21
+
 2- In 50% of the days the precipitation in June is less than 0.02 while in December is 0.03
+
 3- The maximum precipitation in June is 4.43 while in December is 6.42
